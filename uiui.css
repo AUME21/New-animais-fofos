@@ -1,0 +1,67 @@
+h1{
+  text-align: center;
+  font-size: 25px;
+  border-radius: 150px;
+  box-shadow: 0px 5px grey;
+  background-color: lightgreen;
+}
+
+p{
+  text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  box-shadow: 0px 10px grey;
+  padding: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: lightskyblue;
+}
+
+img{
+  height: 90px;
+  weight: 90px;
+}
+
+div{
+  text-align: center;
+}
+
+button{
+  margin-bottom: 50px;
+  border-radius: 20px;
+  box-shadow: 0px 2px grey;
+  background-color: orange;
+}
+
+a{
+  color: black;
+}
+
+.cachorro{
+  height: 125px;
+  weight: 125px;
+}
+
+.hamster{
+  height: 105px;
+  weight: 105px;
+}
+
+.vaca{
+  height: 105px;
+  weight: 105px;
+}
+
+body{
+  background-color: pink;
+}
+
+.esq{
+  margin-right: 98px;
+  margin-left: 22px;
+}
+
+.esq2{
+  margin-right: 117px;
+  margin-left: 45px;
+}
